@@ -3,5 +3,13 @@
 # test commit
 #test again
 #lets test this again and add more text
+<<<<<<< HEAD
 #adding a line for rebasing example
 # adding a line once again!!!
+=======
+<<<<<<< HEAD
+#adding a line for rebasing example
+=======
+#i'm gonna edit this for this feature branch
+>>>>>>> featuresss
+>>>>>>> featuresss
